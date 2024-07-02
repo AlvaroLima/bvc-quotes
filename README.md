@@ -15,7 +15,7 @@ This project is a web scraper designed to extract historical quotes from the Bol
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/historical-bvc-quotes-scraper.git
+    git clone https://github.com/AlvaroLima/bvc-quotes.git 
     cd historical-bvc-quotes-scraper
     ```
 
