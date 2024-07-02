@@ -9,6 +9,8 @@ This project is a web scraper designed to extract historical quotes from the Bol
 - [Data Storage](#data-storage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Scraped Data Table](#scraped-data-table)
+
 
 ## Installation
 
@@ -42,3 +44,7 @@ The cleaned data is saved to a CSV file in the data folder for future analysis.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Scraped Data Table 
+
+<FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" />
