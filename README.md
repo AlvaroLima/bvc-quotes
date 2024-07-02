@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Scraped Data Table 
 
-<FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" defaultSort={['dates', 'desc']} />
+<FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" />
