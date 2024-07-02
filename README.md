@@ -36,7 +36,7 @@ This project is a web scraper designed to extract historical quotes from the Bol
 
 ## Usage
 
-To run the scraper, open the Jupyter Notebook `bvc_scraper.ipynb` and execute the cells. The notebook will scrape the historical quotes data, clean it, and perform some basic exploratory data analysis.
+To run the scraper, open the Jupyter Notebook [bvc_scraper.ipynb](https://github.com/AlvaroLima/bvc-quotes/blob/main/main.ipynb) and execute the cells. The notebook will scrape the historical quotes data, clean it, and perform some basic exploratory data analysis.
 
 
 ## Data Storage
