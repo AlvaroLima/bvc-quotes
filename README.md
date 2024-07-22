@@ -48,13 +48,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Scraped Data Table 
 
 <FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" />
-
-<Iframe
-  data={{
-    url: 'https://app.powerbi.com/view?r=eyJrIjoiYzBmN2Q2MzYtYzE3MS00ODkxLWE5OWMtZTQ2MjBlMDljMDk4IiwidCI6Ijk1M2IwZjgzLTFjZTYtNDVjMy04MmM5LTFkODQ3ZTM3MjMzOSIsImMiOjh9'
-  }}
-  style={{
-    height: '600px',
-    width: '100%'
-  }}
-/>
