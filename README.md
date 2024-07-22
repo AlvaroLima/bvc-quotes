@@ -45,50 +45,6 @@ The cleaned data is saved to a CSV file in the data folder for future analysis.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Banco Comercial do Atlântico (BCA) stock price overtime
-
-<PlotlyLineChart
-  data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bca_quotes_history.csv'
-  }}
-  title="BCA Stock Price x Year"
-  xAxis="dates"
-  yAxis="preco_fecho"
-/>
-
-## Caixa Económica de Cabo Verde (CAIXA) stock price overtime
-
-<PlotlyLineChart
-  data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/caixa_quotes_history.csv'
-  }}
-  title="CAIXA Stock Price x Year"
-  xAxis="dates"
-  yAxis="preco_fecho"
-/>
-
-## Enacol (ENA) stock price overtime
-
-<PlotlyLineChart
-  data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/ena_quotes_history.csv'
-  }}
-  title="ENA Stock Price x Year"
-  xAxis="dates"
-  yAxis="preco_fecho"
-/>
-
-## Sociedade Cabo-verdiana de Tabacos (SCT)
-
-<PlotlyLineChart
-  data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/sct_quotes_history.csv'
-  }}
-  title="SCT Stock Price x Year"
-  xAxis="dates"
-  yAxis="preco_fecho"
-/>
-
 ## Scraped Data Table 
 
 <FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" />
