@@ -52,7 +52,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 <LineChart
   data={{
-    url: 'https://raw.githubusercontent.com/datasets/oil-prices/main/data/wti-year.csv'
+    url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" 
   }}
   title="Oil Price x Year"
   xAxis="Date"
